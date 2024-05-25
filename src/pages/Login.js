@@ -49,6 +49,9 @@ const Login = () => {
                     <button type="submit" className='w-full py-2 bg-purple-900 text-white font-semibold rounded-md hover:bg-purple-700'>
                         Login
                     </button>
+                    <button type="submit" className='w-full py-2 bg-purple-900 text-white font-semibold rounded-md hover:bg-purple-700'>
+                        Click Here (The Login Button Has'nt Work)
+                    </button>
                 </form>
             </div>
         </div>   
