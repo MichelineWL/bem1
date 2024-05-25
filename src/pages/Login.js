@@ -49,7 +49,7 @@ const Login = () => {
                     <button type="submit" className='w-full py-2 bg-purple-900 text-white font-semibold rounded-md hover:bg-purple-700'>
                         Login
                     </button>
-                    <button type="submit" className='w-full py-2 bg-purple-900 text-white font-semibold rounded-md hover:bg-purple-700'>
+                    <button type="submit" className='w-full py-2 text-purple-900 font-semibold rounded-md'>
                         Click Here (The Login Button Has'nt Work)
                     </button>
                 </form>
